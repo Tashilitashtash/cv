@@ -1,0 +1,20 @@
+body {
+  background-color: aliceblue;
+}
+h1 {
+
+  color: darkcyan;
+}
+h3 {
+
+  color: #66BFBF;
+}
+hr {
+  border-style: dotted none none;
+  border-color: lightgrey ;
+  border-width: 10px;
+  width: 10% ;
+}
+a {
+  text-decoration: none;
+}
